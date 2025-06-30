@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Привет, я Даниил
 
-<!--
-**ONES1NGLE/ONES1NGLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий **Frontend-разработчик**, развиваюсь в создании адаптивных и удобных интерфейсов.
 
-Here are some ideas to get you started:
+🛠 **Стек:** HTML, CSS, JavaScript, Git, GitHub, Figma, основы React и TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Сейчас работаю над учебными проектами и пет-проектами, чтобы улучшить навыки и портфолио.
+
+🌱 Изучаю React, углубляю JavaScript, практикую работу с API.
+
+📫 **Контакты:**
+- Telegram: [@твоя_ссылка](https://t.me/твоя_ссылка)
+- GitHub Pages: [ссылка, если есть]()
+
+---
+
+### 🪐 Лучшие пет-проекты:
+
+🔹 [Homework Project](https://github.com/ONES1NGLE/homework) – Учебный репозиторий для практики вёрстки и JavaScript на реальных макетах.
+
+🔹 [TODO App](https://github.com/ONES1NGLE/todo_list_23) – Приложение для управления задачами, использую LocalStorage, JavaScript, адаптивную вёрстку.
