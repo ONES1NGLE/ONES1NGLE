@@ -33,8 +33,7 @@
 - [**Homework Project**](https://github.com/ONES1NGLE/homework) — Репозиторий для практики вёрстки и JavaScript на реальных макетах.
 - [**TODO App**](https://github.com/ONES1NGLE/todo-app) — Минималистичное приложение для задач (React + Tailwind CSS + LocalStorage).
 - [**UserBoard**](https://github.com/ONES1NGLE/UserBoard) — HR-board на React, фильтрация/удаление/избранное пользователей. Современный UI, адаптив, чистый React State.
-- [**Wake & Bake**](https://ones1ngle.github.io/homework/wake-bake_final/index.html) — Многостраничный сайт пекарни. Чистая, адаптивная верстка, продуманная структура, интерактивные элементы и кастомные компоненты на JS (модальное окно, слайдер, аккордеон, фильтрация товаров). Отличный пример практической работы с HTML, CSS и JavaScript.
-
+- [**Wake & Bake**](https://ones1ngle.github.io/homework/wake-bake_final/index.html) — Многостраничный сайт пекарни. Чистая, адаптивная верстка, продуманная структура, интерактивные элементы, модальное окно, слайдер, аккордеон на JS 
 - [**Crypto Crappo**](https://ones1ngle.github.io/crypto_crappo/) — Криптовалютный лендинг с адаптивной версткой, анимациями и современным UI.
 
 
