@@ -10,7 +10,7 @@
 
 📫 **Контакты:**
 - Telegram: [@ones1ngle](https://t.me/ones1ngle)
-- GitHub Pages: [ссылка, если есть]()
+- GitHub Pages:
 
 ---
 
