@@ -24,7 +24,6 @@
 ### 📲 Контакты
 
 - Telegram: [@ones1ngle](https://t.me/ones1ngle)
-- GitHub Pages: [ones1ngle.github.io](https://ones1ngle.github.io)
 
 ---
 
